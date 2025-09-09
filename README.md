@@ -1,7 +1,3 @@
-# TaskSync
-
-A collaborative task management app where team members can create, assign, and track tasks with real-time updates and notifications.
-
 # Key Features
 
 - Real-time updates via WebSockets
