@@ -1,3 +1,15 @@
+# TaskSync
+
+A collaborative task management app where team members can create, assign, and track tasks with real-time updates and notifications.
+
+# Key Features
+
+- Real-time updates via WebSockets
+- Drag-and-drop task boards (Kanban style)
+- User authentication and team management
+- Due date reminders and notifications
+- Task filtering and search
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
